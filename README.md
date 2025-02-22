@@ -14,3 +14,9 @@ My website on Pages: https://jefftam79.github.io/lab1/
 4. Paragraph Elements (`<p>`)
 5. Heading Levels
 6. HTML Entities & HTML Code 
+
+###HTML Tag Cheat Sheet
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
