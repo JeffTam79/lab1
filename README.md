@@ -18,5 +18,26 @@ My website on Pages: https://jefftam79.github.io/lab1/
 ###HTML Tag Cheat Sheet
 | Syntax | Description | Example |
 | ----------- | ----------- | ----------- |
-| Header | Title | Example |
-| Paragraph | Text | Text |
+| Syntax | Description | Example |
+| ```
+{
+    <html>
+        <head>
+        <title></title>
+        </head>
+        <body>
+        </body>
+    </html>
+}
+``` | The basic structure of an HTML document. | ```
+{
+    <html>
+        <head>
+            <meta charset="utf-8">
+            <title></title>
+        </head>
+        <body>
+        </body>
+    </html>
+}
+``` |
