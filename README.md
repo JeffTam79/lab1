@@ -16,25 +16,13 @@ My website on Pages: https://jefftam79.github.io/lab1/
 6. HTML Entities & HTML Code 
 
 ###HTML Tag Cheat Sheet
-<table>
-<tr>
-<td> Syntax </td> <td> Description </td> <td> Syntax </td>
-</tr>
-<tr>
-<td> 
-```HTML
-{
-    <html>
-        <head>
-            <title></title>
-        </head>
-        <body>
-        </body>
-    </html>      
-}
-```
-</td>
-<td>The basic structure of an HTML document.</td>
+| Syntax                                                                               | Description | Example                                                                                                             |
+|--------------------------------------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------|
+| <html>     <head>         <title></title>     </head>     <body>     </body> </html> |             | <html>     <head>         <meta charset="utf-8">         <title></title>     </head>     <body>     </body> </html> |
+|                                                                                      |             |                                                                                                                     |
+|                                                                                      |             |                                                                                                                     |
+
+
 <table>
     <thead>
         <tr>
