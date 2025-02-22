@@ -81,5 +81,59 @@ My website on Pages: https://jefftam79.github.io/lab1/
                 </code></pre>
             </td>
         </tr>
+        <tr>
+            <td>
+                <pre><code>&lt;title&gt;&lt;/title&gt;</code></pre>
+            </td>
+            <td>A tag that displays the content of the <code>&lt;title&gt;</code> element at the top of the browser window or page's tab.</td>
+            <td>
+                <pre><code>&lt;title&gt;My Web Page&lt;/title&gt;</code></pre>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <pre><code>&lt;body&gt;&lt;/body&gt;</code></pre>
+            </td>
+            <td>A tag that contains the document itself. It indicates that anything between it and the closing <code>&lt;/body&gt;</code> tag should be shown inside the main browser window.</td>
+            <td>
+                <pre><code>&lt;body&gt;Hello, World!&lt;/body&gt;</code></pre>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <pre><code>&lt;p&gt;&lt;/p&gt;</code></pre>
+            </td>
+            <td>A tag that creates paragraphs for web content. It helps structure content, separating text into distinct blocks.</td>
+            <td>
+                <pre><code>&lt;p&gt;Some text.&lt;/p&gt;</code></pre>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <pre><code>&lt;h1&gt;&lt;/h1&gt;</code></pre>
+            </td>
+            <td>A tag that is used to indicate the primary topic of your webpage to visitors and search engines. Heading tags 1 - 6 are structured this way to format the text on a page.</td>
+            <td>
+                <pre><code>&lt;h1&gt;Title&lt;/h1&gt;</code></pre>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <pre><code>&amp;lt &amp;gt</code></pre>
+            </td>
+            <td>HTML entity names are used to escape text.</td>
+            <td>
+                <pre><code>Hello, this is my home page. &amp;lt;what a simple page&amp;gt;</code></pre>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <pre><code>&amp;#60 &amp;#62</code></pre>
+            </td>
+            <td>HTML code is also used to escape text.</td>
+            <td>
+                <pre><code>Hello, this is my home page. &amp;#60;what a simple page&amp;#62;</code></pre>
+            </td>
+        </tr>
     </tbody>
 </table>
