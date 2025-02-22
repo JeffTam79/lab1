@@ -17,29 +17,22 @@ My website on Pages: https://jefftam79.github.io/lab1/
 
 ###HTML Tag Cheat Sheet
 | Syntax | Description | Example |
-| ----------- | ----------- | ----------- |
-| Syntax | Description | Example |
+|--------|------------|---------|
 | ```html
-html
-{
-    <html>
-        <head>
+<html>
+    <head>
         <title></title>
-        </head>
-        <body>
-        </body>
-    </html>
-}
+    </head>
+    <body>
+    </body>
+</html>
 ``` | The basic structure of an HTML document. | ```html
-html
-{
-    <html>
-        <head>
-            <meta charset="utf-8">
-            <title></title>
-        </head>
-        <body>
-        </body>
-    </html>
-}
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+    </head>
+    <body>
+    </body>
+</html>
 ``` |
