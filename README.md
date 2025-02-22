@@ -19,7 +19,8 @@ My website on Pages: https://jefftam79.github.io/lab1/
 | Syntax | Description | Example |
 | ----------- | ----------- | ----------- |
 | Syntax | Description | Example |
-| ```
+| ```html
+html
 {
     <html>
         <head>
@@ -29,7 +30,8 @@ My website on Pages: https://jefftam79.github.io/lab1/
         </body>
     </html>
 }
-``` | The basic structure of an HTML document. | ```
+``` | The basic structure of an HTML document. | ```html
+html
 {
     <html>
         <head>
