@@ -16,13 +16,6 @@ My website on Pages: https://jefftam79.github.io/lab1/
 6. HTML Entities & HTML Code 
 
 ###HTML Tag Cheat Sheet
-| Syntax                                                                                                 	| Description 	| Example                                                                                                                                  	|
-|--------------------------------------------------------------------------------------------------------	|-------------	|------------------------------------------------------------------------------------------------------------------------------------------	|
-| <html><br>    <head><br>        <title></title><br>    </head><br>    <body><br>    </body><br></html> 	|             	| <html><br>    <head><br>        <meta charset="utf-8"><br>        <title></title><br>    </head><br>    <body><br>    </body><br></html> 	|
-|                                                                                                        	|             	|                                                                                                                                          	|
-|                                                                                                        	|             	|                                                                                                                                          	|
-
-
 <table>
     <thead>
         <tr>
@@ -72,6 +65,20 @@ My website on Pages: https://jefftam79.github.io/lab1/
             <td>A tag that indicates that anything between it is HTML code. Use the <code>lang</code> attribute inside the <code>&lt;html&gt;</code> tag to declare the language of the web page. The purpose of this attribute is to assist search engines and browsers.</td>
             <td>
                 <pre><code>&lt;html lang="en"&gt;</code></pre>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <pre><code>&lt;head&gt;</code></pre>
+            </td>
+            <td>A tag that contains metadata.</td>
+            <td>
+                <pre><code>&lt;html&gt;
+    &lt;head&gt;
+        &lt;title&gt;&lt;/title&gt;
+    &lt;/head&gt;
+&lt;/html&gt;
+                </code></pre>
             </td>
         </tr>
     </tbody>
