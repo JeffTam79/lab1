@@ -16,11 +16,11 @@ My website on Pages: https://jefftam79.github.io/lab1/
 6. HTML Entities & HTML Code 
 
 ###HTML Tag Cheat Sheet
-| Syntax                                                                               | Description | Example                                                                                                             |
-|--------------------------------------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------|
-| <html>     <head>         <title></title>     </head>     <body>     </body> </html> |             | <html>     <head>         <meta charset="utf-8">         <title></title>     </head>     <body>     </body> </html> |
-|                                                                                      |             |                                                                                                                     |
-|                                                                                      |             |                                                                                                                     |
+| Syntax                                                                                                 	| Description 	| Example                                                                                                                                  	|
+|--------------------------------------------------------------------------------------------------------	|-------------	|------------------------------------------------------------------------------------------------------------------------------------------	|
+| <html><br>    <head><br>        <title></title><br>    </head><br>    <body><br>    </body><br></html> 	|             	| <html><br>    <head><br>        <meta charset="utf-8"><br>        <title></title><br>    </head><br>    <body><br>    </body><br></html> 	|
+|                                                                                                        	|             	|                                                                                                                                          	|
+|                                                                                                        	|             	|                                                                                                                                          	|
 
 
 <table>
