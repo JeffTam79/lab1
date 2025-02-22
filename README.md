@@ -22,7 +22,7 @@ My website on Pages: https://jefftam79.github.io/lab1/
 </tr>
 <tr>
 <td> 
-```html
+```HTML
 {
     <html>
         <head>
