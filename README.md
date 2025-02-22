@@ -53,7 +53,7 @@ My website on Pages: https://jefftam79.github.io/lab1/
             <td>
                 <pre><code>&lt;meta&gt;</code></pre>
             </td>
-            <td>A tag that provides additional information about a webpage to search engines and browsers, like a page description, author, keywords, or viewport settings, allowing them to better understand and display the content, usually placed within the <code>&lt;head&gt;</code> section of the HTML document; it is not visible to users on the webpage itself.</td>
+            <td>A tag that provides additional information about a webpage to search engines and browsers, like a page description, author, keywords, or viewport settings, allowing them to better understand and display the content. It is usually placed within the <code>&lt;head&gt;</code> section of the HTML document and is not visible to users.</td>
             <td>
                 <pre><code>&lt;meta charset="utf-8"&gt;</code></pre>
             </td>
