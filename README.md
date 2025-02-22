@@ -42,4 +42,30 @@ My website on Pages: https://jefftam79.github.io/lab1/
     &lt;head&gt;
         &lt;meta charset="utf-8"&gt;
         &lt;title&gt;&lt;/title&gt;
-    &lt;/head&gt
+    &lt;/head&gt;
+    &lt;body&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+                </code></pre>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <pre><code>&lt;meta&gt;</code></pre>
+            </td>
+            <td>A tag that provides additional information about a webpage to search engines and browsers, like a page description, author, keywords, or viewport settings, allowing them to better understand and display the content, usually placed within the <code>&lt;head&gt;</code> section of the HTML document; it is not visible to users on the webpage itself.</td>
+            <td>
+                <pre><code>&lt;meta charset="utf-8"&gt;</code></pre>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <pre><code>&lt;html&gt;</code></pre>
+            </td>
+            <td>A tag that indicates that anything between it is HTML code. Use the <code>lang</code> attribute inside the <code>&lt;html&gt;</code> tag to declare the language of the web page. The purpose of this attribute is to assist search engines and browsers.</td>
+            <td>
+                <pre><code>&lt;html lang="en"&gt;</code></pre>
+            </td>
+        </tr>
+    </tbody>
+</table>
