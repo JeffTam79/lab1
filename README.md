@@ -16,6 +16,11 @@ My website on Pages: https://jefftam79.github.io/lab1/
 6. HTML Entities & HTML Code 
 
 ###HTML Tag Cheat Sheet
+| Syntax | Description | Example |
+| ----------- | ----------- | ----------- |
+| <pre></pre> |  |
+|  |  |
+
 <table>
     <thead>
         <tr>
