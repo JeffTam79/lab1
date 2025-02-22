@@ -15,7 +15,7 @@ My website on Pages: https://jefftam79.github.io/lab1/
 5. Heading Levels
 6. HTML Entities & HTML Code 
 
-###HTML Tag Cheat Sheet
+### HTML Tag Cheat Sheet
 <table>
     <thead>
         <tr>
