@@ -42,12 +42,4 @@ My website on Pages: https://jefftam79.github.io/lab1/
     &lt;head&gt;
         &lt;meta charset="utf-8"&gt;
         &lt;title&gt;&lt;/title&gt;
-    &lt;/head&gt;
-    &lt;body&gt;
-    &lt;/body&gt;
-&lt;/html&gt;
-                </code></pre>
-            </td>
-        </tr>
-    </tbody>
-</table>
+    &lt;/head&gt
