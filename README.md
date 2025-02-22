@@ -18,7 +18,14 @@ My website on Pages: https://jefftam79.github.io/lab1/
 ###HTML Tag Cheat Sheet
 | Syntax | Description | Example |
 | ----------- | ----------- | ----------- |
-| <pre></pre> |  |
+| <pre><code>&lt;html&gt;
+    &lt;head&gt;
+            &lt;title&gt;&lt;/title&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+                </code></pre> |  |
 |  |  |
 
 <table>
